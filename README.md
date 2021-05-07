@@ -9,3 +9,9 @@
 * User can order any food items using our website.
 * User can see the food items of various restaurants without logging in and they can add items to cart without login as a guest.
 * User have to login to place any order
+
+# To run the project
+
+* first install dependencies and create env and add your credentials
+* Go to the server folder and run using the command "npm run dev"
+* Go to the client folder and run using the command "npm start"
